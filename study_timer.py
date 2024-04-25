@@ -28,7 +28,7 @@ dracule = tk.Tk()
 dracule.geometry('550x350')
 dracule.title('UNLEASHED')
 dracule.configure(background='#16141a')
-dracule.resizable(True, True)
+dracule.resizable(False, False)
 
 fontecust = font.Font(family="Merriweather", size=22)
 fontecust2 = font.Font(family="Merriweather", size=16)
